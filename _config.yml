@@ -3,7 +3,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This is the personal blog of Kamel Tighidet. Here will be published blog posts
 permalink: ':title/'
 baseurl:  # the subpath of your site, e.g. /blog
-url: http://kamel.github.io # the base hostname & protocol for your site, e.g. http://example.com
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
